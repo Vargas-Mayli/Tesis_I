@@ -1,0 +1,53 @@
+---
+title: "Proyecto guayaba 2025"
+author: "Mayli Vargas Rojas"
+format:
+  html:
+   toc: true
+   toc-location: left
+   embed-resources: true
+   number-sections: true
+   output-file: index
+   theme: darkly
+   css: estilo.css
+editor_options: 
+  chunk_output_type: console
+---
+
+# TÍTULO
+
+Análisis molecular de hongos patógenos en guayaba: Una aproximación metodológica para la identificación de especies.
+
+# PROBLEMA
+
+La guayaba (Psidium guajava L.) es un cultivo de importancia económica en regiones tropicales y subtropicales, valorado por su alto contenido nutricional y su demanda en mercados locales e internacionales (FAO, 2022). Sin embargo, su producción se ve afectada por enfermedades fúngicas que reducen el rendimiento y la calidad del fruto. Entre los principales patógenos se encuentran especies de los géneros Colletotrichum, Fusarium y Phytophthora, cuyas infecciones generan pérdidas económicas significativas (Sánchez-Téllez et al., 2020).
+
+La identificación tradicional de hongos patógenos, basada en características morfológicas, presenta limitaciones en precisión debido a la variabilidad fenotípica y la posible coexistencia de especies crípticas (Hyde et al., 2019). Ante esto, el análisis molecular, mediante técnicas como la secuenciación de regiones genómicas conservadas (ITS, β-tubulina, TEF-1α), surge como una herramienta robusta para la identificación taxonómica precisa (White et al., 2022). No obstante, en el contexto agronómico de la guayaba, persisten vacíos en la estandarización metodológica para el diagnóstico molecular de estos patógenos, lo que dificulta el diseño de estrategias de manejo fitosanitario eficientes.
+
+## Pregunta de investigación
+
+¿Cómo puede optimizarse una metodología molecular basada en marcadores genéticos y caracterización morfológica para la identificación precisa de especies fúngicas patógenas en cultivos de guayaba?
+
+# OBJETIVOS
+
+## Objetivo general
+
+Desarrollar y validar una metodología molecular basada en marcadores genéticos para la identificación precisa de especies fúngicas patógenas en cultivos de guayaba (Psidium guajava L.), correlacionando los resultados con la sintomatología fitopatológica observada en campo.
+
+## Objetivos especificos
+
+- Aislar e identificar morfológicamente hongos patógenos asociados a lesiones en frutos y hojas de guayaba, utilizando técnicas moleculares y caracterización morfológica.
+
+- Amplificar y secuenciar regiones genéticas conservadas (ITS, β-tubulina, TEF-1α) para la identificación molecular de las especies fúngicas presentes.
+
+- Analizar filogenéticamente las secuencias obtenidas mediante la herramienta bioinformática (BLAST) para determinar la diversidad de especies patógenas en el cultivo.
+
+# REFERENCIAS BIBLIOGRÁFICAS
+
+FAO. (2022). El estado mundial de la agricultura y la alimentación: Mejorar los sistemas agroalimentarios en favor de la resiliencia. Organización de las Naciones Unidas para la Alimentación y la Agricultura. https://doi.org/10.4060/cc2621es
+
+Hyde, K. D., Xu, J., Rapior, S., Jeewon, R., Lumyong, S., Niego, A. G. T., & Stadler, M. (2019). The amazing potential of fungi: 50 ways we can exploit fungi industrially. Fungal Diversity, *97*(1), 1–136. https://doi.org/10.1007/s13225-019-00430-9
+
+Sánchez-Téllez, S., Téllez-Ortiz, J., & Rodríguez-Guerra, R. (2020). Hongos patógenos asociados a la guayaba (Psidium guajava L.) en México. Revista Mexicana de Fitopatología, *38*(2), 234–256. https://doi.org/10.18781/R.MEX.FIT.2002-5
+
+White, T. J., Bruns, T. D., Lee, S. B., & Taylor, J. W. (2022). Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. PCR Protocols, *18*(1), 315–322. https://doi.org/10.1016/B978-0-12-372180-8.50042-1
