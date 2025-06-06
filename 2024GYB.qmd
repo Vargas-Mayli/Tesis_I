@@ -58,6 +58,9 @@ El informe técnico de Gutiérrez et. al (2002) documentó que las infecciones p
 
 Se recolectaron muestras de frutos en plantas afectadas de guayaba ubicadas en parcelas de La Unión (distrito de Huambo) y Shucush (distrito de Longar). Las muestras fueron transportadas bajo condiciones controladas al Laboratorio de Investigación en Sanidad Vegetal (LABISANV) en la Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas (UNTRM), donde se procedió con el aislamiento de microorganismos mediante cultivos en medios selectivos. Además, se extraerá ADN para la identificación molecular de hongos patógenos y microorganismos endófitos benéficos, utilizando la técnica de PCR y secuenciación genética.
 
+![Figura1](/Users/maylivargasrojas/Documents/CICLO IX/Tesis/Tesis_I/GUAYABAS.jpg)
+Nota: El mapa de ubicación con la georreferenciación de las parcelas en el distrito de Huambo y Longar - Provincia de Rodríguez de Mendoza y Región de Amazonas. CS: Colecta Shucush (Longar) y CU: Colecta La Unión (Huambo).
+
 ## Aislamiento fúngico
 
 La desinfección de tejidos vegetales se realizó mediante inmersión en hipoclorito de sodio (NaClO) al 1% durante 1 minuto, seguido de tres lavados con agua destilada estéril. Las muestras desinfectadas se cultivaron en medio PDA (Potato Dextrose Agar) suplementado con antibióticos (cloramfenicol 100 mg/L) para inhibir contaminantes bacterianos, incubándose a 25°C durante 5-7 días en oscuridad. Las colonias fúngicas se seleccionaron en función de características morfológicas (color, textura, tasa de crecimiento y patrones de esporulación), subcultivándose en PDA fresco para pureza.
